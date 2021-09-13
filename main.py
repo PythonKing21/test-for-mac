@@ -1,1 +1,1 @@
-print('on mac it's working fine')
+print('on mac its working fine')
